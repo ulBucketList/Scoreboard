@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+@font-face {
+    font-family: "score";
+    src: url(scoreboard.ttf);
+}
+:root{
+    --bgcolor{background-color:#064E3B};
+    --scorecolor{color: #BE123C};
+    scbg{ background-color: #080001};
+    --font{font-family: "score", sans-serif};
+
+    --titleoutline{color:#EEEEEE};
+
+    
+}
